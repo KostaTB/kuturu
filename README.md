@@ -8,7 +8,7 @@ Alongside the original writing, the dataset also contains the same text but with
 The original text contains 9 paragraphs. Such a number is low enough to also allow slow algorithms
 to still get a chance to take part in the benchmarking, but also high enough to provide some sort of meaningful insight.
 The original writing is located in [**original_kuturu.txt**](original_kuturu.txt), while the one with errors is located in
-[**faulty_kuturu.txt**](faulty_kuturu.txt). The number of errors added is 42.
+[**faulty_kuturu.txt**](faulty_kuturu.txt). The number of errors added is 39.
 
 The typologies of mistakes fall under one of the following categories:
 The mistakes tend to be more lexical, but the most prominent one would be the lack of letter "ë".
